@@ -60,9 +60,9 @@ select * from test_table;
 *1) Созданной базы данных;*
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
 
-![psql1](https://github.com/joos-net/db-cloud/blob/main/psql1.png)
+![psql1](https://github.com/George210890/12-09.md/blob/main/psql1.png)
 
-![psql2](https://github.com/joos-net/db-cloud/blob/main/psql2.png)
+![psql2](https://github.com/George210890/12-09.md/blob/main/psql2.png)
 
 ### Задание 2*
 
@@ -73,11 +73,11 @@ select * from test_table;
 *1) Скриншот созданной базы данных.*
 *2) Код Terraform, создающий базу данных.*
 
-![terrpsql1](https://github.com/joos-net/db-cloud/blob/main/terrpsql1.png)
+![terrpsql1](https://github.com/George210890/12-09.md/blob/main/terrpsql1.png)
 
-![terrpsql2](https://github.com/joos-net/db-cloud/blob/main/terrpsql2.png)
+![terrpsql2](https://github.com/George210890/12-09.md/blob/main/terrpsql2.png)
 
-![terrpsql3](https://github.com/joos-net/db-cloud/blob/main/terrpsql3.png)
+![terrpsql3](https://github.com/George210890/12-09.md/blob/main/terrpsql3.png)
 
 ```tf
 terraform {
